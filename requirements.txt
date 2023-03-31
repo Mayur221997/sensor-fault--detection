@@ -1,3 +1,6 @@
+dill==0.3.5.1
+dnspython==2.2.1
+evidently==0.1.58.dev0
 pymongo[srv] == 4.2.0
 from-root
 scikit-learn==1.1.3
@@ -5,4 +8,10 @@ dill==0.3.5.1
 pyyaml
 scipy
 imblearn==0.0
+sklearn
+xgboost==1.6.2
+fastapi==0.78.0
+uvicorn==0.18.3
+python-detenv==0.21.0
+pip-chill==1.0.1
 -e .
